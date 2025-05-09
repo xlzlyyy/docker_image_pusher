@@ -1,1 +1,1 @@
-bitnami/etcd-workbench
+quay.io/coreos/etcd-workbench
